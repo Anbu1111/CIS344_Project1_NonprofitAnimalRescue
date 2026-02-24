@@ -1,1 +1,2 @@
 # CIS344_Project1_NonprofitAnimalRescue
+This project models a nonprofit animal rescue organization using a relational database. The system tracks adopters, animals, adoptions, adoption items, and donation payments. The database was designed using a Chen style ER diagram and a UML ER diagram in MySQL Workbench. The schema was successfully forward engineered and implemented using SQL with primary keys and foreign keys. All required project files are included in this repository.!
